@@ -1,0 +1,24 @@
+p{
+    color: rgb(0, 0, 0);
+}
+
+img{
+    width:100px;
+    height:100px;
+}
+
+div{
+    background-color:rgb(153, 153, 153); 
+    width: 400px;
+    height: 400px;
+    margin:10px;
+    padding:10px;
+    border-radius: 40px 40px;
+    display: inline-block;
+} 
+
+.precios{
+    width: auto;
+    height: auto;
+    display: flex;
+}
